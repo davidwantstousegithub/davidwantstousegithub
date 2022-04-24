@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidwantstousegithub
 - 👀 I’m interested in making games.
-- 🌱 I’m currently learning LUA, python and other game dev stuff.
-- 💞️ I’m looking to collaborate on nothing for now
+- 🌱 I’m currently learning LUA and Python.
 - 📫 How to reach me: drtaycobucarili@gmail.com
 
 <!---
